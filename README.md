@@ -1,2 +1,3 @@
-git status
-git add [files]
+git status - статус файлов (есть ли изменения)
+git add [files] - добавляет файлы в stage / git add . - добавляет все файлы (не нужно перечислять)
+git commit -m "комментарий" - отправка файлов
